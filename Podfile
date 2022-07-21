@@ -1,4 +1,3 @@
-source 'https://git.svb.lacaixa.es/arq_ios/Specs.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
 use_frameworks!
